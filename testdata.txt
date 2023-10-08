@@ -8,7 +8,7 @@ Shop 7: Home Essentials, Category: Home, Location: Floor 4, Aisle 2, Rating: 5
 Shop 8: Toy Kingdom, Category: Toys, Location: Floor 2, Aisle 4, Rating: 3
 Shop 9: Gourmet Delights, Category: Food, Location: Floor 1, Aisle 5, Rating: 4
 Shop 10: Tech Zone, Category: Electronics, Location: Floor 2, Aisle 5, Rating: 4
-Shop 11: Furniture Hub,Category: Furniture, Location: Floor 3, Aisle 4, Rating: 4},
-Shop 12: Jewelry Galore, Category: Jewelry, Location: Floor 2, Aisle 2, Rating: 5},
-Shop 13: Pet Paradise, Category: Pets, Location: Floor 1, Aisle 6, Rating: 4},
+Shop 11: Furniture Hub,Category: Furniture, Location: Floor 3, Aisle 4, Rating: 4,
+Shop 12: Jewelry Galore, Category: Jewelry, Location: Floor 2, Aisle 2, Rating: 5,
+Shop 13: Pet Paradise, Category: Pets, Location: Floor 1, Aisle 6, Rating: 4,
     
