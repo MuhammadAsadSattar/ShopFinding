@@ -10,7 +10,7 @@ The following Python libraries are used by the Shop Finding and Navigation Syste
 2. Matplotlib: Used to show and visualize the directed graph.
 How to Run:
 1.	Download the repository to your computer by using the command git clone https://github.com/MuhammadAsadSattar/ShopFinding.git
-2. Go to the project directory using the command: cd shop-finding-system
+2. Go to the project directory using the command: cd shopfinding
 3. Start the software.
 4. To use the Shop Finding and Navigation System, follow the on-screen instructions.
  
